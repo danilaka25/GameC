@@ -1,0 +1,114 @@
+{
+  "simple_data": [
+    {
+      "id": 1,
+      "title": "Rules",
+      "text": "Lorem ipsum dolor sit amet consectetur. A ut sit pellentesque vel. Sit tincidunt praesent adipiscing in magna erat enim nec urna. Aliquet volutpat id arcu fames varius mus ultricies mollis. Adipiscing blandit cursus faucibus vel ullamcorper dignissim at..."
+    }
+  ],
+  "game_data": [
+    {
+      "gameId": 1,
+      "mainImg": "space.png",
+      "gameName": "Space",
+      "assets_folder": "space",
+      "isFinished": false,
+      "images": [
+        { "id": 101, "img": "1.png" },
+        { "id": 102, "img": "2.png" },
+        { "id": 103, "img": "3.png" }
+      ]
+    },
+    {
+      "gameId": 2,
+      "mainImg": "magic.png",
+      "gameName": "Magic",
+      "assets_folder": "magic",
+      "isFinished": false,
+      "images": [
+        { "id": 201, "img": "1.png" },
+        { "id": 202, "img": "2.png" },
+        { "id": 203, "img": "3.png" }
+      ]
+    },
+    {
+      "gameId": 3,
+      "mainImg": "robots.png",
+      "gameName": "Robots",
+      "assets_folder": "robots",
+      "isFinished": false,
+      "images": [
+        { "id": 301, "img": "1.png" },
+        { "id": 302, "img": "2.png" },
+        { "id": 303, "img": "3.png" },
+        { "id": 304, "img": "4.png" },
+        { "id": 305, "img": "5.png" },
+        { "id": 306, "img": "6.png" }
+      ]
+    },
+    {
+      "gameId": 4,
+      "mainImg": "zeus.png",
+      "gameName": "Zeus",
+      "assets_folder": "zeus",
+      "isFinished": false,
+      "images": [
+        { "id": 401, "img": "1.png" },
+        { "id": 402, "img": "2.png" }
+      ]
+    },
+    {
+      "gameId": 5,
+      "mainImg": "tiger.png",
+      "gameName": "Tiger",
+      "assets_folder": "tiger",
+      "isFinished": false,
+      "images": [
+        { "id": 501, "img": "1.png" },
+        { "id": 502, "img": "2.png" },
+        { "id": 503, "img": "3.png" },
+        { "id": 504, "img": "4.png" }
+      ]
+    },
+    {
+      "gameId": 6,
+      "mainImg": "candy.png",
+      "gameName": "Candy",
+      "assets_folder": "candy",
+      "isFinished": false,
+      "images": [
+        { "id": 601, "img": "1.png" },
+        { "id": 602, "img": "2.png" },
+        { "id": 603, "img": "3.png" },
+        { "id": 604, "img": "4.png" },
+        { "id": 605, "img": "5.png" },
+        { "id": 606, "img": "6.png" }
+      ]
+    },
+    {
+      "gameId": 7,
+      "mainImg": "dogs.png",
+      "gameName": "Dogs",
+      "assets_folder": "dogs",
+      "isFinished": false,
+      "images": [
+        { "id": 701, "img": "1.png" },
+        { "id": 702, "img": "2.png" },
+        { "id": 703, "img": "3.png" },
+        { "id": 704, "img": "4.png" }
+      ]
+    },
+    {
+      "gameId": 8,
+      "mainImg": "jelly.png",
+      "gameName": "Jelly",
+      "assets_folder": "jelly",
+      "isFinished": false,
+      "images": [
+        { "id": 801, "img": "1.png" },
+        { "id": 802, "img": "2.png" },
+        { "id": 803, "img": "3.png" }
+      ]
+    }
+  ]
+}
